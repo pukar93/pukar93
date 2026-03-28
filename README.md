@@ -116,6 +116,12 @@ me.say_hi()
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 
 </div>
+<div align="center">
+
+<!-- Main Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pukar93&custom_title=Pukar%20Kumar%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=0d1117&title_color=FFFFFF&area=true&hide_border=true" width="100%">
+
+</div>
 
 ---
 
